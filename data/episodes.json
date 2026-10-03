@@ -269,6 +269,42 @@
       "page": "gelin.html",
       "episodes": [
         {
+          "id": "221",
+          "number": "221",
+          "date": "2026-10-03",
+          "image": "https://turkweb.pl/wp-content/uploads/2026/07/Panna-mloda-odc.-221.jpg",
+          "alt": "Hancer Discovers Where Beyza Is Hiding!",
+          "title": "The Bride Episode 221: Hancer Discovers Where Beyza Is Hiding!",
+          "summary": "Engin gives Sila an elegant scarf as an apology. She is happy with the gift but remembers her mission and tries to suppress her growing feelings. Meanwhile, Nusret visits Beyza at Yonca’s place and tells her that the lawyer has backed Cihan into a corner. Beyza celebrates her victory and declares that Cihan and Mukadder will soon be begging her for mercy.\nDerya tries to take advantage of Hancer by asking her to help the foundation obtain a hair salon. Hancer refuses to use her influence directly but promises to speak to Engin. On her way back from visiting her sister-in-law, she meets Yonca outside the salon and notices a call from Beyza, which raises her suspicions.\nCihan receives a message from Beyza and goes to the location she gives him. There, he sees a stroller that has been hit by a van. The stroller turns out to be empty, while Beyza watches his despair from hiding with her child.\nHancer follows Yonca and discovers Beyza’s hideout.",
+          "translations": {
+            "pl": {
+              "title": "Panna młoda odc. 221: Hancer odkrywa, gdzie ukrywa się Beyza!",
+              "summary": "Engin daje Sili elegancką apaszkę w ramach przeprosin. Dziewczyna cieszy się z prezentu, ale przypomina sobie o swojej misji i próbuje zdusić rodzące się uczucia. Tymczasem Nusret odwiedza Beyzę u Yoncy i opowiada jej, że adwokatka osaczyła Cihana. Beyza triumfuje i zapowiada, że Cihan oraz Mukadder padną przed nią na kolana. Derya próbuje wykorzystać Hancer, prosząc ją o pomoc fundacji w zdobyciu salonu fryzjerskiego. Hancer odmawia bezpośredniej protekcji, ale obiecuje porozmawiać z Enginem. Wracając od bratowej, spotyka Yoncę przed salonem i zauważa telefon od Beyzy, co wzbudza jej podejrzenia. Cihan otrzymuje od Beyzy wiadomość i jedzie we wskazane miejsce, gdzie widzi wózek potrącony przez vana. Wózek okazuje się pusty, a Beyza z dzieckiem obserwuje jego rozpacz z ukrycia. Hancer śledzi Yoncę i odkrywa kryjówkę Beyzy.",
+              "alt": "Hancer odkrywa, gdzie ukrywa się Beyza!"
+            },
+            "de": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "cs": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "tr": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "ru": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            }
+          }
+        },
+        {
           "id": "220",
           "number": "220",
           "date": "2026-10-02",
