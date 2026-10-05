@@ -269,6 +269,42 @@
       "page": "gelin.html",
       "episodes": [
         {
+          "id": "222",
+          "number": "222",
+          "date": "2026-10-05",
+          "image": "https://turkweb.pl/wp-content/uploads/2026/07/Panna-mloda-odc.-222-7.jpg",
+          "alt": "Cihan Finds His Son. Beyza Issues an Ultimatum!",
+          "title": "The Bride episode 222: Cihan Finds His Son. Beyza Issues an Ultimatum!",
+          "summary": "Beren quits Beyza’s case after learning that she used the child in a cruel scheme to frighten Cihan. Yonca is also shocked by Beyza’s actions and warns her that if she does not come to her senses, she could lose the child.\nMeanwhile, overwhelmed by stress, Cihan collapses outside the mansion. Hancer finds him and calls for help. At the hospital, the doctor reassures the family that Cihan’s condition is stable, but Hancer insists on speaking to him. When she finally enters his room, she reveals that she knows where his son is.\nCihan immediately leaves the hospital and goes to Yonca’s house. There he finds his child and finally gets to hold him again. He wants Beyza to return to the mansion with him, but she gives him an ultimatum. She agrees to return only if Cihan brings Hancer with them.\nMeanwhile, Melih confronts Hancer about her actions and asks her to stop interfering in Cihan and Beyza’s marriage. Hancer promises that she will stay out of their relationship from now on. But will she really keep her promise?",
+          "translations": {
+            "pl": {
+              "title": "Panna młoda odc. 222: Cihan odnajduje syna. Beyza stawia ultimatum!",
+              "summary": "Beren rezygnuje z prowadzenia sprawy Beyzy po tym, jak dowiaduje się, że kobieta wykorzystała dziecko do okrutnej prowokacji wobec Cihana. Yonca również jest wstrząśnięta jej zachowaniem i ostrzega ją, że jeśli się nie opamięta, może stracić dziecko.\nTymczasem Cihan, pogrążony w ogromnym stresie, traci przytomność przed rezydencją. Hancer znajduje go i wzywa pomoc. W szpitalu lekarz uspokaja rodzinę, ale Hancer koniecznie chce porozmawiać z Cihanem. Gdy w końcu zostaje wpuszczona do jego sali, zdradza mu, że wie, gdzie znajduje się jego syn.\nCihan natychmiast opuszcza szpital i jedzie do domu Yoncy. Odnajduje tam dziecko i po raz pierwszy od dawna może je przytulić. Chce wrócić z Beyzą do rezydencji, jednak kobieta stawia mu warunek. Oświadcza, że zgodzi się na powrót tylko wtedy, gdy Cihan przyprowadzi do nich Hancer.\nW tym samym czasie Melih konfrontuje Hancer z jej zachowaniem i prosi ją, aby przestała ingerować w małżeństwo Cihana i Beyzy. Hancer obiecuje, że więcej nie będzie się wtrącać. Czy rzeczywiście dotrzyma słowa?",
+              "alt": "Cihan odnajduje syna. Beyza stawia ultimatum!"
+            },
+            "de": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "cs": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "tr": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "ru": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            }
+          }
+        },
+        {
           "id": "221",
           "number": "221",
           "date": "2026-10-03",
