@@ -269,6 +269,330 @@
       "page": "gelin.html",
       "episodes": [
         {
+          "id": "231",
+          "number": "231",
+          "date": "2026-10-15",
+          "image": "https://turkweb.pl/wp-content/uploads/2026/08/Panna-mloda-odc.-231-2.jpg",
+          "alt": "The Bride, Episode 231: Mine finds a necklace! Cihan is planning a big evening!",
+          "title": "The Bride Episode 231: Mine finds a necklace! Cihan is planning a big evening!",
+          "summary": "Hancer returns to the old house and sees Melih’s suitcase. She assumes he intends to leave, but upon encountering him in the hallway, she learns that he had merely been into town. Melih asks her about the renewal of Cihan and Beyza’s vows, and Hancer confirms that she has been invited to serve as a witness. Later, she visits Master Ertugrul, who advises her not to let fear or guilt dictate her choices. At the mansion, Mine discovers a necklace in Gülsüm’s room; the maid snatches it from her and lies to Mukadder about it. Terrified that the piece of jewelry might link her to Yasemin’s death, Mine tosses the necklace into a dumpster, where a waste picker appears moments later. By evening, the mansion is prepared for the vow renewal ceremony. Nusret arrives, followed by Yonca—whom, to Mukadder’s surprise, Cihan himself had invited.",
+          "translations": {
+            "pl": {
+              "title": "Panna młoda odc. 231: Mine znajduje naszyjnik! Cihan szykuje wielki wieczór!",
+              "summary": "Hancer wraca do starego domu i widzi walizkę Meliha. Jest przekonana, że chce odejść, ale gdy spotyka go na korytarzu, dowiaduje się, że był tylko w mieście. Melih pyta ją o odnowienie przysięgi Cihana i Beyzy, a Hancer przyznaje, że została zaproszona jako świadek. Potem odwiedza mistrza Ertugrula, który radzi jej, by nie pozwoliła lękowi ani poczuciu winy decydować za nią. W rezydencji Mine znajduje w pokoju Gülsüm naszyjnik, a pokojówka wyrywa jej go z rąk i okłamuje Mukadder. Przerażona, że biżuteria może powiązać ją ze śmiercią Yasemin, wyrzuca naszyjnik do kontenera, gdzie chwilę później pojawia się zbieracz makulatury. Wieczorem rezydencja jest gotowa na odnowienie przysięgi. Przybywa Nusret, a potem Yonca, którą ku zdziwieniu Mukadder zaprosił sam Cihan.",
+              "alt": "Panna młoda odc. 231: Mine znajduje naszyjnik! Cihan szykuje wielki wieczór!"
+            },
+            "de": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "cs": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "tr": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "ru": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            }
+          }
+        },
+        {
+          "id": "230",
+          "number": "230",
+          "date": "",
+          "image": "https://turkweb.pl/wp-content/uploads/2026/08/Panna-mloda-odc.-230-4.jpg",
+          "alt": "The Bride, Episode 230: Derya falls into her own trap! She ends up poisoning herself with sarma!",
+          "title": "The Bride Episode 230: Derya falls into her own trap! She ends up poisoning herself with sarma!",
+          "summary": "Cihan and Hancer spend the night in a mountain cabin. By the stove, they talk about pregnancy, and Cihan asks Hancer what it feels like to carry a life within her. She does not reveal the truth about the father, but her words move him deeply. Cihan confesses that he would love to have a daughter just like her, then steps outside, startled by his own sincerity. During dinner, Derya discovers that Cemil and Emir have brought *sarma* prepared by Yonca. Moments later, she begins to suffer from stomach pain and realizes that she has consumed the very poisoned dish she had intended for the guests in the salon. Seeing Mine’s distress following an altercation with Beyza, Sinem decides to leave with her daughter and Melih. The next day, Hancer and Cihan return to the estate, where preparations are underway for the renewal of Beyza and Cihan’s wedding vows. Beyza invites Hancer to the ceremony, mocking her pain.",
+          "translations": {
+            "pl": {
+              "title": "Panna młoda odc. 230: Derya wpada we własne sidła! Sama zatruwa się sarmą!",
+              "summary": "Cihan i Hancer spędzają noc w górskiej chacie. Przy piecu rozmawiają o ciąży, a Cihan pyta Hancer, jak to jest nosić w sobie życie. Kobieta nie zdradza prawdy o ojcostwie, ale jej słowa głęboko go poruszają. Cihan wyznaje, że chciałby mieć córkę podobną do niej, po czym wychodzi na zewnątrz, przestraszony własną szczerością. Derya podczas kolacji odkrywa, że Cemil i Emir przynieśli sarmę od Yoncy. Chwilę później zaczyna boleć ją brzuch i dociera do niej, że sama zjadła zatrute danie, które przygotowała, by zaszkodzić gościom salonu. Sinem, widząc cierpienie Mine po awanturze z Beyzą, postanawia wyjechać z córką i Melihem. Następnego dnia Hancer i Cihan wracają pod rezydencję, gdzie trwają przygotowania do odnowienia przysięgi Beyzy i Cihana. Beyza zaprasza Hancer na uroczystość i kpi z jej bólu.",
+              "alt": "Panna młoda odc. 230: Derya wpada we własne sidła! Sama zatruwa się sarmą!"
+            },
+            "de": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "cs": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "tr": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "ru": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            }
+          }
+        },
+        {
+          "id": "229",
+          "number": "229",
+          "date": "2026-10-15",
+          "image": "https://turkweb.pl/wp-content/uploads/2026/08/Panna-mloda-odc.-229-3.jpg",
+          "alt": "The Bride, episode 229: Cihan and Hancer alone in an abandoned hut!",
+          "title": "The Bride Episode 229: Cihan and Hancer alone in an abandoned hut!",
+          "summary": "Sinem tells Melih that Cihan and Beyza are going to renew their wedding vows, but she refuses to join the trip, as she does not want to leave Hancer on her own. Meanwhile, Cihan and Hancer are returning from the funeral of Ihsan, who has been laid to rest beside his late wife. On the way, they get a flat tire; they have no spare, there is no cell service, and Hancer sprains her ankle. Cihan finds an abandoned hut and decides they should spend the night there. Inside, he builds a fire, covers Hancer with his coat, and shares an apple with her. Cemil and Emir receive some food from Yonca—leftovers from the opening of her salon—but they hide this from Derya. Unaware of its origin, Derya tries some of the *sarma*, only to end up scattering the food and burning the rice. Melih finds a note left by Hancer and is pained to see that fate is once again leading her back to Cihan. At the residence, Beyza reduces Mine to tears over a ruined bouquet of tulips, prompting Sinem to come to her daughter’s defense. A scuffle breaks out between the two women, during which Beyza threatens to tell Cihan about Sinem and Melih.",
+          "translations": {
+            "pl": {
+              "title": "Panna młoda odc. 229: Cihan i Hancer sami w opuszczonej chacie!",
+              "summary": "Sinem mówi Melihowi, że Cihan i Beyza odnowią przysięgę, ale odmawia wspólnego wyjazdu, bo nie chce zostawić Hancer samej. Tymczasem Cihan i Hancer wracają z pogrzebu Ihsana, który spoczął obok zmarłej żony. Po drodze łapią gumę, nie mają koła zapasowego ani zasięgu, a Hancer skręca kostkę. Cihan znajduje opuszczoną chatę i postanawia spędzić tam z nią noc. W środku rozpala ogień, okrywa Hancer płaszczem i dzieli z nią jabłko. Cemil i Emir dostają od Yoncy poczęstunek z otwarcia salonu, ale ukrywają to przed Deryą. Kobieta nieświadomie próbuje własnej sarmy, po czym rozsypuje jedzenie i przypala ryż. Melih znajduje kartkę od Hancer i cierpi, widząc, że los znów prowadzi ją do Cihana. W rezydencji Beyza doprowadza Mine do płaczu przez zniszczony bukiet tulipanów, a Sinem staje w obronie córki. Między kobietami dochodzi do szarpaniny, podczas której Beyza grozi, że powie Cihanowi o Sinem i Melihu.",
+              "alt": "Panna młoda odc. 229: Cihan i Hancer sami w opuszczonej chacie!"
+            },
+            "de": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "cs": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "tr": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "ru": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            }
+          }
+        },
+        {
+          "id": "228",
+          "number": "228",
+          "date": "2026-10-15",
+          "image": "https://turkweb.pl/wp-content/uploads/2026/08/Panna-mloda-odc.-228-5.jpg",
+          "alt": "The Bride, Episode 228: Cihan interrogates Füsun Kaba! Beyza puts on her wedding dress!",
+          "title": "The Bride Episode 228: Cihan interrogates Füsun Kaba! Beyza puts on her wedding dress!",
+          "summary": "Beyza returns to her father’s apartment wearing a wedding ring, announcing that she is once again the sole wife of Cihan Develioglu. Although she admits to having put the ring on herself, she plans to renew their wedding vows in front of Hancer—while holding a child in her arms. She then returns to the mansion with Cihan Gürür, triumphantly showing off the ring to Sinem and Gülsüm. Sinem realizes that Beyza’s return effectively closes off any path for her to be with Melih. Meanwhile, Cihan questions Füsun Kaba, showing her photographs from her meeting with Beyza. The former doctor suggests that Beyza loves him above all else. That evening, Beyza appears before Cihan wearing the gown from their original wedding and proposes a renewal of their vows. Cihan seemingly agrees, allowing her to believe she has won. Hancer writes a letter to her unborn child, blaming herself for losing Cihan. Beyza attempts to get closer to her husband, but he continues his ruse, sending her away as if she were a bride-to-be awaiting her wedding day.",
+          "translations": {
+            "pl": {
+              "title": "Panna młoda odc. 228: Cihan przesłuchuje Füsun Kabę! Beyza zakłada suknię ślubną!",
+              "summary": "Beyza wraca do mieszkania ojca z obrączką na palcu i ogłasza, że znów jest jedyną żoną Cihana Develioglu. Choć przyznaje, że sama ją sobie założyła, planuje odnowić przysięgę małżeńską na oczach Hancer, trzymając dziecko na rękach. Potem wraca do rezydencji z Cihanem Gürürem i triumfalnie pokazuje obrączkę Sinem oraz Gülsüm. Sinem rozumie, że powrót Beyzy zamyka jej drogę do Meliha. Tymczasem Cihan przesłuchuje Füsun Kabę, pokazując jej zdjęcia ze spotkania z Beyzą. Była lekarka sugeruje, że Beyza kocha go ponad wszystko. Wieczorem Beyza pojawia się przed Cihanem w sukni z pierwszego ślubu i proponuje odnowienie przysięgi. Cihan pozornie się zgadza, pozwalając jej uwierzyć w zwycięstwo. Hancer pisze list do nienarodzonego dziecka i obwinia się o utratę Cihana. Beyza próbuje zbliżyć się do męża, ale on gra dalej i odsyła ją jak narzeczoną czekającą na ślub.",
+              "alt": "Panna młoda odc. 228: Cihan przesłuchuje Füsun Kabę! Beyza zakłada suknię ślubną!"
+            },
+            "de": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "cs": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "tr": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "ru": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            }
+          }
+        },
+        {
+          "id": "227",
+          "number": "227",
+          "date": "2026-10-15",
+          "image": "https://turkweb.pl/wp-content/uploads/2026/08/Panna-mloda-odc.-227-3.jpg",
+          "alt": "The Bride, episode 227: Sila photographs a secret meeting between Beyza and Füsun!",
+          "title": "The Bride Episode 227: Sila photographs a secret meeting between Beyza and Füsun!",
+          "summary": "Derya returns from shopping and stops in front of Yonca’s hair salon, still envious of her having such a space. She runs into Hatice, who is busy preparing börek, sarma, and cakes for sale—a task made even more demanding by a large order from Yonca. Derya offers to help with the sarma, though she clearly has an ulterior motive. Meanwhile, Beyza meets with Füsun Kaba in the park. The former doctor accuses Beyza of sending a woman to confront her—using an old business card—and threatens to ruin her life if she is bothered again. Sila watches the exchange from a hidden spot, takes photographs, and leaves an envelope in Cihan’s office. Cihan looks at the photos just before Beyza arrives. Attempting to smooth things over, Beyza brings their wedding rings and expresses a desire to return to the mansion with their child. Hancer overhears Cihan saying that he misses them, which causes her to lose hope that he will ever return to her. Cihan tells Beyza to go back home with their son, but he chooses not to put his own wedding ring back on.",
+          "translations": {
+            "pl": {
+              "title": "Panna młoda odc. 227: Sila fotografuje tajne spotkanie Beyzy i Füsun!",
+              "summary": "Derya wraca z zakupów i zatrzymuje się przed salonem fryzjerskim Yoncy, nadal zazdroszcząc jej lokalu. Spotyka Hatice, która przygotowuje na sprzedaż börek, sarmę i ciasta, a dzięki dużemu zamówieniu od Yoncy ma pełne ręce pracy. Derya proponuje jej pomoc przy sarmie, choć wyraźnie ma w tym własny cel. Beyza spotyka się w parku z Füsun Kabą. Była lekarka oskarża ją o nasłanie kobiety z dawną wizytówką i grozi, że zniszczy jej życie, jeśli ktoś jeszcze będzie ją niepokoił. Sila obserwuje rozmowę z ukrycia, robi zdjęcia i podrzuca kopertę do gabinetu Cihana. Mężczyzna ogląda fotografie tuż przed wizytą Beyzy. Beyza próbuje załagodzić konflikt, przynosi obrączki i chce wrócić z dzieckiem do rezydencji. Hancer słyszy, jak Cihan mówi, że za nimi tęskni, i traci nadzieję na jego powrót. Cihan każe Beyzie wrócić z synem do domu, ale sam nie zakłada obrączki.",
+              "alt": "Panna młoda odc. 227: Sila fotografuje tajne spotkanie Beyzy i Füsun!"
+            },
+            "de": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "cs": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "tr": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "ru": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            }
+          }
+        },
+        {
+          "id": "226",
+          "number": "226",
+          "date": "2026-10-15",
+          "image": "https://turkweb.pl/wp-content/uploads/2026/08/Panna-mloda-odc.-226-1.jpg",
+          "alt": "The Bride, Episode 226: Cihan humiliates Beyza! Her triumph turns into defeat!",
+          "title": "The Bride Episode 226: Cihan humiliates Beyza! Her triumph turns into defeat!",
+          "summary": "Mukadder, Sinem, and Hancer go to Nusret’s apartment to ask for Beyza’s hand in marriage on Cihan’s behalf. However, Cihan does not show up; instead, he sends Yigit with the rings. Over the phone, he tells Beyza that he has treated her exactly the same way he treated Hancer—since her engagement, too, is taking place without the groom present. A furious Beyza accuses Hancer of being complicit in this humiliation and refuses to put on the ring until Cihan appears in person. Hancer confronts Cihan in his office, accusing him of using her as a pawn in his own game. He declares that he will not submit to any woman other than her, and vows to fight anyone who stands in his way. The following day, Hancer witnesses a secret meeting between Melih and Sinem. Sinem admits to herself that she is in love with Melih, but she fears hurting Hancer. Hancer asks Melih to move out of their old home that very day, but he hesitates, as he does not want to lose Sinem once again.",
+          "translations": {
+            "pl": {
+              "title": "Panna młoda odc. 226: Cihan upokarza Beyzę! Jej triumf zamienia się w porażkę!",
+              "summary": "Mukadder, Sinem i Hancer jadą do mieszkania Nusreta, by w imieniu Cihana poprosić o rękę Beyzy. Cihan jednak nie przychodzi i wysyła Yigita z obrączkami. Przez telefon oznajmia Beyzie, że potraktował ją tak samo jak Hancer, bo jej zaręczyny również odbyły się bez pana młodego. Wściekła Beyza oskarża Hancer o udział w upokorzeniu i odmawia założenia pierścionka, dopóki Cihan nie pojawi się osobiście. Hancer konfrontuje Cihana w gabinecie, zarzucając mu, że zrobił z niej pionka w swojej grze. On przyznaje, że nie podporządkuje się żadnej kobiecie poza nią, i zapowiada walkę ze wszystkimi, którzy staną mu na drodze. Następnego dnia Hancer widzi potajemne spotkanie Meliha i Sinem. Sinem przyznaje przed sobą, że kocha Meliha, ale boi się skrzywdzić Hancer. Hancer prosi Meliha, by jeszcze tego dnia wyprowadzili się ze starego domu, lecz on waha się, bo nie chce ponownie stracić Sinem.",
+              "alt": "Panna młoda odc. 226: Cihan upokarza Beyzę! Jej triumf zamienia się w porażkę!"
+            },
+            "de": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "cs": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "tr": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "ru": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            }
+          }
+        },
+        {
+          "id": "225",
+          "number": "225",
+          "date": "2026-10-15",
+          "image": "https://turkweb.pl/wp-content/uploads/2026/08/Panna-mloda-odc.-225-5.jpg",
+          "alt": "The Bride, Episode 225: Sila sets a trap for Beyza! Melih keeps fighting for Sinem!",
+          "title": "The Bride Episode 225: Sila sets a trap for Beyza! Melih keeps fighting for Sinem!",
+          "summary": "Sila tracks down Dr. Fusun Kaba at the hospital and poses as someone sent by Beyza. She shows the doctor an old business card and implies that she is seeking an illegal medical procedure. Although Fusun denies knowing Beyza, her nervous reaction convinces Sila that she is on the right track. After Sila leaves the hospital, the doctor calls Beyza, accusing her of setting a trap. Taken by surprise, Beyza arranges to meet Fusun in a park—unaware that Sila is eavesdropping on the entire conversation. Meanwhile, Cihan shows Hancer a bouquet of roses, wedding bands, and chocolates—all prepared for his engagement to Beyza. Hancer masks her pain upon learning that she is expected to go to Nusret’s house that evening. Sinem meets with Melih at night and expresses her concern that Hancer will be humiliated. Melih suggests that they run away together, but Sinem refuses, citing her commitment to Mine.",
+          "translations": {
+            "pl": {
+              "title": "Panna młoda odc. 225: Sila zastawia pułapkę na Beyzę! Melih nie przestaje walczyć o Sinem!",
+              "summary": "Sila odnajduje doktor Fusun Kabę w szpitalu i podszywa się pod osobę przysłaną przez Beyzę. Pokazuje jej dawną wizytówkę i sugeruje, że potrzebuje nielegalnego zabiegu. Fusun zaprzecza znajomości z Beyzą, ale jej nerwowa reakcja utwierdza Silę w przekonaniu, że trafiła na właściwy ślad. Po wyjściu ze szpitala lekarka dzwoni do Beyzy, oskarżając ją o zastawienie pułapki. Beyza jest zaskoczona i umawia się z Fusun na spotkanie w parku, nie wiedząc, że Sila podsłuchuje całą rozmowę. Tymczasem Cihan pokazuje Hancer bukiet róż, zamówione obrączki i czekoladki przygotowane na zaręczyny z Beyzą. Hancer ukrywa ból, gdy słyszy, że wieczorem ma pojechać do domu Nusreta. Sinem spotyka się nocą z Melihem i martwi się, że Hancer zostanie upokorzona. Melih proponuje Sinem wspólną ucieczkę, ale ona odmawia ze względu na Mine.",
+              "alt": "Panna młoda odc. 225: Sila zastawia pułapkę na Beyzę! Melih nie przestaje walczyć o Sinem!"
+            },
+            "de": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "cs": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "tr": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "ru": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            }
+          }
+        },
+        {
+          "id": "224",
+          "number": "224",
+          "date": "2026-10-15",
+          "image": "https://turkweb.pl/wp-content/uploads/2026/08/Panna-mloda-odc.-224-4.jpg",
+          "alt": "The Bride, episode 224: Beyza wants an engagement ceremony in front of Hancer!",
+          "title": "The Bride Episode 224: Beyza wants an engagement ceremony in front of Hancer!",
+          "summary": "Derya visits Engin, hoping to find a way for Hancer’s foundation to provide the funds she needs for a hair salon. Engin explains that using foundation resources to support people close to them would be unethical, so Derya decides to keep pressuring Hancer instead. At the office, Hilal reminds her about a promised donation, prompting Derya to flee to avoid having to pay. At Beyza’s request, Hancer arrives at Yonca’s house. Beyza demands that Cihan go to Nusret to ask for her hand in marriage—just as she herself once asked for Hancer’s hand on Cihan’s behalf. She also insists that Hancer be present to \"symbolically\" hand Cihan over to her. Hancer relays this condition to Cihan, but he dismisses it as absurd and refuses. Melih warns Hancer that Beyza’s true intention is to humiliate her and force her to give up on Cihan. Cihan goes to see Beyza, confronts her, and—unexpectedly—agrees to her terms, though it appears he may have a plan of his own.",
+          "translations": {
+            "pl": {
+              "title": "Panna młoda odc. 224: Beyza chce zaręczyn na oczach Hancer!",
+              "summary": "Derya odwiedza Engina i próbuje znaleźć sposób, by fundacja Hancer pomogła jej zdobyć pieniądze na salon fryzjerski. Engin wyjaśnia, że wsparcie bliskich ze środków fundacji byłoby nieetyczne, więc Derya postanawia nadal naciskać na Hancer. W firmie Hilal przypomina jej o zadeklarowanej darowiźnie, a Derya ucieka, by uniknąć wpłaty. Hancer przychodzi do domu Yoncy na wezwanie Beyzy. Beyza żąda, by Cihan pojechał do Nusreta i poprosił o jej rękę, tak jak kiedyś ona prosiła o rękę Hancer dla Cihana. Chce też, by Hancer była przy tym obecna i symbolicznie oddała jej Cihana. Hancer przekazuje warunek Cihanowi, ale on uznaje go za absurd i odmawia. Melih ostrzega Hancer, że Beyza chce ją upokorzyć i zmusić do rezygnacji z Cihana. Cihan jedzie do Beyzy, konfrontuje ją i niespodziewanie zgadza się spełnić jej warunek, choć wygląda, jakby planował własne posunięcie.",
+              "alt": "Panna młoda odc. 224: Beyza chce zaręczyn na oczach Hancer!"
+            },
+            "de": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "cs": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "tr": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "ru": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            }
+          }
+        },
+        {
+          "id": "223",
+          "number": "223",
+          "date": "2026-10-15",
+          "image": "https://turkweb.pl/wp-content/uploads/2026/07/Panna-mloda-odc.-223-6.jpg",
+          "alt": "The Bridge Episode 223: Sila finds a clue in the childreen room!",
+          "title": "The Bridge Episode 223: Sila finds a clue in the childreen room!",
+          "summary": "Engin visits Cihan, renewing their friendship and offering legal assistance to secure child custody from the unpredictable Beyza. Meanwhile, Mukadder confronts Yonca and Beyza, but Beyza refuses to negotiate with anyone except Hancer. At the same time, Sila secretly searches Beyza's room and discovers the business card of Dr. Fusun Kaba. Realizing the significance of this piece of evidence, Sila remains hesitant about whether she should reveal the truth and help the Develioglu family.",
+          "translations": {
+            "pl": {
+              "title": "Panna młoda odc. 223: Sila znajduje trop w pokoju dziecka!",
+              "summary": "Engin przybywa do rezydencji, odnawiając przyjaźń z Cihanem. Proponuje mu pomoc prawną w walce o syna, choć sprawy rozwodowe z nieprzewidywalną Beyzą są skomplikowane. Beyza ukrywa się u Yoncy i odrzuca żądania Mukadder, domagając się rozmowy wyłącznie z Hancer. W tym samym czasie Sila przeszukuje pokój Beyzy i znajduje wizytówkę doktor Fusun Kaby. Świadoma wagi odkrytego śladu, zastanawia się, czy powinna pomóc rodzinie Develioglu.",
+              "alt": "Panna młoda odc. 223: Sila znajduje trop w pokoju dziecka!"
+            },
+            "de": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "cs": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "tr": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            },
+            "ru": {
+              "title": "",
+              "summary": "",
+              "alt": ""
+            }
+          }
+        },
+        {
           "id": "222",
           "number": "222",
           "date": "2026-10-05",
